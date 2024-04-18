@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 > **Ulmago 앱 기획 과정 - Notion**
 <br>
 
-1. [Ulmago MVP]([https://www.notion.so/MVP-51bf87b9f8f5429dbe4d630a62c7b2cd?pvs=4](https://equinox-calendula-50e.notion.site/MVP-51bf87b9f8f5429dbe4d630a62c7b2cd?pvs=4))
+1. [Ulmago MVP](https://equinox-calendula-50e.notion.site/MVP-51bf87b9f8f5429dbe4d630a62c7b2cd?pvs=4)
 2. [화면별 기능 정의 및 와이어 프레임](https://www.notion.so/5adcfeeeb1ad4628a4dac7d0d891208b?pvs=4)
 3. [유저 시나리오](https://www.notion.so/61b620264a0c4d429673312e0b5cda18?pvs=4)
 4. [데이터 조직하기](https://www.notion.so/e26baaefa4304abf82bf459aaa1bdf60?pvs=4)

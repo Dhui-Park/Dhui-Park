@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=50C878&height=230&text=Dhui-Park's%20Github&descAlignY=70&fontSize=60)
 
-### 새로운 도전에 두려워하지 않는 개발자 박동휘입니다.
+
 
 <br>
 
